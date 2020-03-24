@@ -43,7 +43,7 @@ docker start database
 
 ### 2. Accessing the Postgres database
 
-You must have to create a new database called `gympoint`. I suggest you to use [Postbird](https://www.electronjs.org/apps/postbird) for `OSX`. After installing, you must have to add these configurations below and then create your database with `UTF8` client encoding.
+You must create a new database called `gympoint`. I suggest you to use [Postbird](https://www.electronjs.org/apps/postbird) for `OSX`. After installing, you must add these configurations below and then create your database with `UTF8` client encoding.
 
 ```bash
 # host
