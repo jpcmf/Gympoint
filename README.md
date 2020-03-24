@@ -20,7 +20,7 @@
 
 The project requires [Node.js](https://nodejs.org/) and [Docker](https://docs.docker.com/install/) to run locally.
 
-## :coffee: Back-end
+## :coffee: Back end
 
 After cloning the repository, go to the folder named `backend` and install all the dependencies required.
 
@@ -103,7 +103,7 @@ npm run dev
 npm run queue
 ```
 
-## :computer: Front-end
+## :computer: Front end
 
 After cloning the repository, go to the folder named `frontend` and install all the dependencies required and run the project by using the command `npm start`.
 
